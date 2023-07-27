@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elwoodcrocker
-- 👀 I’m interested in Basket ball and natural building techniques. 
-- 🌱 I’m currently learning CSS, HTML and Javascript of AppAcademyOpen
+- 👀 I’m interested in computer science. 
+- 🌱 I’m currently working through the curriculum at TOP
 - 💞️ I’m looking to collaborate on Open Source Projects.-
 - 📫 You can reach me at elwood.crocker@gmail.com or @ElwoodCrocker
 
